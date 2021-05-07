@@ -1,3 +1,5 @@
+![GitHub issues](https://img.shields.io/github/issues-raw/Artuto/deluxechat-velocity-bridge) ![GitHub all releases](https://img.shields.io/github/downloads/Artuto/deluxechat-velocity-bridge/total)
+
 # deluxechat-velocity-bridge
 
 The original DeluxeChat bridge ported to Velocity.
