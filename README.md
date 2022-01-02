@@ -25,6 +25,13 @@ Download from the [Releases page](https://github.com/Artuto/deluxechat-velocity-
 4. Start the proxy again
 5. Profit!
 
+### MAKE SURE YOU ENABLE BUNGEECORD/VELOCITY MESSAGING IN YOUR CONFIG:
+
+![image](https://user-images.githubusercontent.com/9273973/147888645-3de26a9a-50db-482f-8559-ab741a1c0534.png)
+
+![image](https://user-images.githubusercontent.com/9273973/147888656-8289c1ba-e8f6-4f2a-b092-d34e8ca6dfda.png)
+
+
 ## Compiling
 
 If you want to compile this from source you'll need the following:
